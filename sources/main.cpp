@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: Jan 29, 2018
- *      Author: luiz
+ *      Author: Luiz Leite
  */
 
 
